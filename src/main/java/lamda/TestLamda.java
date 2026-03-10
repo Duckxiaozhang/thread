@@ -41,6 +41,7 @@ public class TestLamda {
         like = () -> {
             System.out.println("i like you5");
         };
+        like.lamda();
 
     }
 }
