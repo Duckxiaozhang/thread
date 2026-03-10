@@ -36,7 +36,8 @@ public class TestLamda {
             }
         };
         like.lamda();
-        //lambda表达式
+
+        //lamda表达式
         like = () -> {
             System.out.println("i like you5");
         };
