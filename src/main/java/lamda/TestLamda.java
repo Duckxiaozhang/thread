@@ -36,10 +36,15 @@ public class TestLamda {
             }
         };
         like.lamda();
+        //lambda表达式
+        like = () -> {
+            System.out.println("i like you5");
+        };
 
     }
 }
-//定义一个函数式接口
+//定义一个函数式接口,函数接口只有一个抽象方法;
+//任何接口只有一个抽象方法，那他就是函数式接口
 interface ilike {
     void lamda();
 }
