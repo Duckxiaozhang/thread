@@ -1,4 +1,4 @@
-package lamda;
+package Test2;
 
 public class TestLamda {
 
@@ -38,10 +38,10 @@ public class TestLamda {
         like.lamda();
 
         //lamda表达式
-        like = () -> {
+        ilike like1  = () -> {
             System.out.println("i like you5");
         };
-        like.lamda();
+        like1.lamda();
 
     }
 }

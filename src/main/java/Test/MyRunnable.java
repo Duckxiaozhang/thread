@@ -1,4 +1,4 @@
-package com.zhang;
+package Test;
 //实现runnable接口，重写run方法，创建Runnable对象，使用Thread类来包装Runnable对象，调用start（）方法启动线程
 public class MyRunnable implements Runnable{
     @Override

@@ -1,4 +1,4 @@
-package com.zhang;
+package Test;
 //真实对象和代理对象都要实现同一个接口
 //代理对象要持有真实对象
 public class StaticProxy {

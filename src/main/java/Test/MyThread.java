@@ -1,4 +1,4 @@
-package com.zhang;
+package Test;
 //继承Thread类，重写run方法
 public class MyThread extends  Thread{
     @Override

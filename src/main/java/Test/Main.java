@@ -1,4 +1,4 @@
-package com.zhang;
+package Test;
 
 import java.util.concurrent.*;
 
